@@ -8,7 +8,7 @@ import (
 
 const (
 	iface_file  = "/etc/network/interfaces"
-	user_manual = "* parameters -> iface_name inet(4/6) ip_address netmask gateway dns_server\n"
+	user_manual = "* Parameters -> iface_name inet(4/6) ip_address netmask gateway dns_server\n"
 )
 
 func main() {
